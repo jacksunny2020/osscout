@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "laravel/framework": "5.4.*",
+        "laravel/framework": "5.4",
         "orzcc/aliyun-opensearch": "dev-master"
     },
     "autoload": {
